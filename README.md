@@ -52,7 +52,7 @@ Veriyi yalnızca göstermek değil, **dönüşümün kendisini görünür kılma
 
 | Overview | Industries | Regions | Impact | Tech & Maturity |
 |-----------|-------------|----------|---------|-----------------|
-| ![](images/overview.png) | ![](images/industries.png) | ![](images/regions.png) | ![](images/impact.png) | ![](images/tech_maturity.png) |
+| ![](overview.png) | ![](industries.png) | ![](regions.png) | ![](impact.png) | ![](tech_maturity.png) |
 
 ---
 
